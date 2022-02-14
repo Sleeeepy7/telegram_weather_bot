@@ -8,5 +8,7 @@ telebot with api of weather
     and copy your token from https://openweathermap.org/api and paste to ( tg_bot_token = '5gdfgdfg456gsdgf4gdf'
   - 4.launch
   - 5.type /start and then type name of the city
-![Uploading изображение_2022-02-14_183544.png…]()
+  - ![image](https://user-images.githubusercontent.com/90385669/153895015-0d4024d2-28eb-4b94-bf8a-6919fb5e2f2a.png)
+
+
 
