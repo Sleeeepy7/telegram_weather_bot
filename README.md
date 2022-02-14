@@ -7,4 +7,4 @@ telebot with api of weather
   - 3.create file config.py and copy your token into a token variable ( open_weather_token = '5gfdgd4tgdfgdfgdf')
     and copy your token from https://openweathermap.org/api and paste to ( tg_bot_token = '5gdfgdfg456gsdgf4gdf'
   - 4.launch
-  - 5. type /start and then type name of the city
+  - 5.type /start and then type name of the city
